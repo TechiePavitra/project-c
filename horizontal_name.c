@@ -3,8 +3,8 @@
 void main()
 {
   clrslr();
-  printf("\npatil")
-  printf(\npavitra")
-  printf(\nl.)
+  printf("\npatil");
+  printf(\npavitra");
+  printf(\nl.);
 getch();
 }
